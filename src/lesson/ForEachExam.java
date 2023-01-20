@@ -5,6 +5,7 @@ import java.util.List;
 
 public class ForEachExam {
 
+
     public static void main(String[] args) {
         List<Member> aList = new ArrayList<>();
         Member member = new Member("김가영", 10);
